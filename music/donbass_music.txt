@@ -1,0 +1,106 @@
+music_station = "donbass_music"
+music = {
+	song = "anthem_DPR"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "anthem_LPR"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "banner_of_the_republic"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Song_of_Donbass_warriors"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "USSR_DPR_LPR"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "arise_donbass"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Heroes_Z"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "donbass_is_each_of_us"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Donbass_NATO_Steel_Graveyard"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "take_us_home_Motherland"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "donbas_is_behind_us"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "we_are_returning_home"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "StaFFord63_Donbass"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Gleb_Kornilov_Donetsk_Airport"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Aeroport"
+	
+	chance = {
+		factor = 1
+	}
+}

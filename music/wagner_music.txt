@@ -1,0 +1,135 @@
+music_station = "wagner_music"
+music = {
+	song = "summer_and_crossbows"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "summer_and_crossbows_x_KSLV_override"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Leto_i_Arbalety_Rock"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Akim_Jumbo"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "cekisty_my_po_lokot"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "chvk-vagner-grad-i-liven"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "SHTIL_orkestr_vagnera"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "P.Plamenov_Otruadi_veteranov"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "V.Tsigankova_Rus_PMC"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "SKWLKR_best_in_hell"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Lastfragment_SKWLKR_Casper_First_Warrior"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Kasper_they_are_not_there"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Kasper_patron"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "kasper_zavtra_povezet"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Sclauen_Jumbo"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Sclauen_Palmyra"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Wagner_Bakhmut"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Vrata_overtona"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Vrata_overtona_a_lot_salt_in_soledar"
+	
+	chance = {
+		factor = 1
+	}
+}

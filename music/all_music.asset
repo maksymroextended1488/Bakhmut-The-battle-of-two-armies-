@@ -1,0 +1,1999 @@
+music = {
+	name = "maintheme"
+	file = "hoi4mainthemeallies_wagner.ogg"
+	volume = 0.90
+}
+#Ukraine
+music = {
+	name = "oh_there_is_a_red_viburnum_in_the_meadow"
+	file = "ukraine/oh_there_is_a_red_viburnum_in_the_meadow.ogg"
+	volume = 0.5
+}
+music = {
+	name = "anthem_of_ukraine"
+	file = "ukraine/anthem_of_ukraine.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Sword_of_Areus"
+	file = "ukraine/Sword_of_Areus.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Haidamaks_Cossack_was_riding"
+	file = "ukraine/Haidamaks_Cossack_was_riding.ogg"
+	volume = 0.5
+}
+music = {
+	name = "stefania"
+	file = "ukraine/stefania.ogg"
+	volume = 0.5
+}
+music = {
+	name = "hear_the_anthem"
+	file = "ukraine/hear_the_anthem.ogg"
+	volume = 0.5
+}
+music = {
+	name = "march_of_the_occupiers"
+	file = "ukraine/march_of_the_occupiers.ogg"
+	volume = 0.5
+}
+music = {
+	name = "M8L8T_Courage_leads_to_heaven"
+	file = "ukraine/M8L8T_Courage_leads_to_heaven.ogg"
+	volume = 0.30
+}
+music = {
+	name = "M8L8T_Tears_of_autumn"
+	file = "ukraine/M8L8T_Tears_of_autumn.ogg"
+	volume = 0.30
+}
+music = {
+	name = "M8L8T_To_the_Gods_of_Mine"
+	file = "ukraine/M8L8T_To_the_Gods_of_Mine.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Little_Song_for_The_Moskals"
+	file = "ukraine/Little_Song_for_The_Moskals.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Kraken_1032_Chasiv_Yar"
+	file = "ukraine/Kraken_1032_Chasiv_Yar.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Hatespeech_volunteers"
+	file = "ukraine/Hatespeech_volunteers.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Goya_Jointjay_How"
+	file = "ukraine/Goya_Jointjay_How.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Yarmak_Babylon"
+	file = "ukraine/Yarmak_Babylon.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Yarmak_Ragnarok"
+	file = "ukraine/Yarmak_Ragnarok.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Go_A_Kalyna"
+	file = "ukraine/Go_A_Kalyna.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Moisei_Im_Not_Alone"
+	file = "ukraine/Moisei_Im_Not_Alone.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Nezhegol_FPV_na_Volchansk"
+	file = "ukraine/Nezhegol_FPV_na_Volchansk.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Nezhegol_Stars"
+	file = "ukraine/Nezhegol_Stars.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Nezhegol_Night_of_Wild_Hunt"
+	file = "ukraine/Nezhegol_Night_of_Wild_Hunt.ogg"
+	volume = 0.5
+}
+music = {
+	name = "SadSvit_toy_hto_pisnu_grav"
+	file = "ukraine/SadSvit_toy_hto_pisnu_grav.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Mannerheim_Line_Where_is_your_line"
+	file = "ukraine/Mannerheim_Line_Where_is_your_line.ogg"
+	volume = 0.5
+}
+music = {
+	name = "My_knights_cross"
+	file = "ukraine/My_knights_cross.ogg"
+	volume = 0.5
+}
+music = {
+	name = "ATO"
+	file = "ukraine/ATO.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Give_me_a_gun_brother"
+	file = "ukraine/Give_me_a_gun_brother.ogg"
+	volume = 0.5
+}
+music = {
+	name = "separatist"
+	file = "ukraine/separatist.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Pes_Patron"
+	file = "ukraine/Pes_Patron.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Bakhmut_fortress"
+	file = "ukraine/Bakhmut_fortress.ogg"
+	volume = 0.5
+}
+music = {
+	name = "military_rage_phonk"
+	file = "ukraine/military_rage_phonk.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Rammstein_Mein_Herz_Brennt"
+	file = "ukraine/Rammstein_Mein_Herz_Brennt.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Infantry_Cultural_Landing"
+	file = "ukraine/Infantry_Cultural_Landing.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Rammstein_Deutschland_ukr"
+	file = "ukraine/Rammstein_Deutschland_ukr.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Riffmaster"
+	file = "ukraine/Riffmaster.ogg"
+	volume = 0.5
+}
+music = {
+	name = "SadSvit_Cassette"
+	file = "ukraine/SadSvit_Cassette.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Chico_Qatoshi_ZSU"
+	file = "ukraine/Chico_Qatoshi_ZSU.ogg"
+	volume = 0.5
+}
+music = {
+	name = "March_Viburnum_of_our_remembrance"
+	file = "ukraine/March_Viburnum_of_our_remembrance.ogg"
+	volume = 0.5
+}
+music = {
+	name = "National_Bandurists_Chapel"
+	file = "ukraine/National_Bandurists_Chapel.ogg"
+	volume = 0.5
+}
+music = {
+	name = "The_march_of_the_new_army"
+	file = "ukraine/The_march_of_the_new_army.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Sadsvit_Charakters"
+	file = "ukraine/Sadsvit_Charakters.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Lapis_Trubetskaya_Warriors_of_Light"
+	file = "ukraine/Lapis_Trubetskaya_Warriors_of_Light.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Nezhegol_Ukraine"
+	file = "ukraine/Nezhegol_Ukraine.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Boys_from_the_forest"
+	file = "ukraine/Boys_from_the_forest.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Hey_hu_hey_ha"
+	file = "ukraine/Hey_hu_hey_ha.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Artillery_march"
+	file = "ukraine/Artillery_march.ogg"
+	volume = 0.5
+}
+music = {
+	name = "M8L8T_Storm_over_the_Azov_Sea"
+	file = "ukraine/M8L8T_Storm_over_the_Azov_Sea.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Muesli_ftMisha_Scorpion_behind_the_spoil_heaps"
+	file = "ukraine/Muesli_ftMisha_Scorpion_behind_the_spoil_heaps.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Sadsvit_Goodbye"
+	file = "ukraine/Sadsvit_Goodbye.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Sasha_Boole_Holding_the_landing"
+	file = "ukraine/Sasha_Boole_Holding_the_landing.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Tartak_Height"
+	file = "ukraine/Tartak_Height.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Not_your_war"
+	file = "ukraine/Not_your_war.ogg"
+	volume = 0.5
+}
+music = {
+	name = "thunder_and_fire"
+	file = "ukraine/thunder_and_fire.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Sadsvit_Silhouettes"
+	file = "ukraine/Sadsvit_Silhouettes.ogg"
+	volume = 0.5
+}
+music = {
+	name = "My_own_country"
+	file = "ukraine/My_own_country.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Scriabin_Sea"
+	file = "ukraine/Scriabin_Sea.ogg"
+	volume = 0.5
+}
+music = {
+	name = "BaWN_Winter"
+	file = "ukraine/BaWN_Winter.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Scriabin_Dont"
+	file = "ukraine/Scriabin_Dont.ogg"
+	volume = 0.5
+}
+music = {
+	name = "SKOFKAxKALUSH_Homeland"
+	file = "ukraine/SKOFKAxKALUSH_Homeland.ogg"
+	volume = 0.5
+}
+music = {
+	name = "SUDNO_Tonu"
+	file = "ukraine/SUDNO_Tonu.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Alexey_Levkin_Everything_goes_according_to_plan"
+	file = "ukraine/Alexey_Levkin_Everything_goes_according_to_plan.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Nezhegol_On_the_Graves_of_the_Heroes"
+	file = "ukraine/Nezhegol_On_the_Graves_of_the_Heroes.ogg"
+	volume = 0.5
+}
+music = {
+	name = "SadSvit_Morphom_Come_Back_Alive"
+	file = "ukraine/SadSvit_Morphom_Come_Back_Alive.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Scriabin_Clock"
+	file = "ukraine/Scriabin_Clock.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Scriabin_Ruina"
+	file = "ukraine/Scriabin_Ruina.ogg"
+	volume = 0.5
+}
+music = {
+	name = "TOLOKA_still_young"
+	file = "ukraine/TOLOKA_still_young.ogg"
+	volume = 0.5
+}
+music = {
+	name = "going_dead"
+	file = "ukraine/going_dead.ogg"
+	volume = 0.5
+}
+music = {
+	name = "MURDER_AT_THA_NIGHT"
+	file = "ukraine/MURDER_AT_THA_NIGHT.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Blood_flows_into_the_Black_Sea"
+	file = "ukraine/Blood_flows_into_the_Black_Sea.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Flag"
+	file = "ukraine/Flag.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Hey_falcons"
+	file = "ukraine/Hey_falcons.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Lets_march_brothers"
+	file = "ukraine/Lets_march_brothers.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Like_distant_horizon"
+	file = "ukraine/Like_distant_horizon.ogg"
+	volume = 0.5
+}
+music = {
+	name = "March_Bohdan_Khmelnytsky"
+	file = "ukraine/March_Bohdan_Khmelnytsky.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Marching_Song_Spring"
+	file = "ukraine/Marching_Song_Spring.ogg"
+	volume = 0.5
+}
+music = {
+	name = "The_Cossacks_rose_at_dawn"
+	file = "ukraine/The_Cossacks_rose_at_dawn.ogg"
+	volume = 0.5
+}
+music = {
+	name = "We_will_boldly_go_into_battle"
+	file = "ukraine/We_will_boldly_go_into_battle.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Zaporizhian_March"
+	file = "ukraine/Zaporizhian_March.ogg"
+	volume = 0.5
+}
+music = {
+	name = "run_3oshb"
+	file = "ukraine/run_3oshb.ogg"
+	volume = 0.5
+}
+#Russia
+music = {
+	name = "russian_state_anthem"
+	file = "russia/russian_state_anthem.ogg"
+	volume = 0.5
+}
+music = {
+	name = "sacred_war_m"
+	file = "russia/sacred_war_m.ogg"
+	volume = 0.5
+}
+music = {
+	name = "3_tankman"
+	file = "russia/3_tankman.ogg"
+	volume = 0.5
+}
+music = {
+	name = "through_valleys_and_uplands"
+	file = "russia/through_valleys_and_uplands.ogg"
+	volume = 0.5
+}
+music = {
+	name = "nightingales"
+	file = "russia/nightingales.ogg"
+	volume = 0.5
+}
+music = {
+	name = "regiments_marching"
+	file = "russia/regiments_marching.ogg"
+	volume = 0.5
+}
+music = {
+	name = "March_Siberian_Riflemen"
+	file = "russia/March_Siberian_Riflemen.ogg"
+	volume = 0.5
+}
+music = {
+	name = "go_russia"
+	file = "russia/go_russia.ogg"
+	volume = 0.5
+}
+
+music = {
+	name = "lovely_brothers_lovely"
+	file = "russia/lovely_brothers_lovely.ogg"
+	volume = 0.5
+}
+music = {
+	name = "this_is_my_homeland"
+	file = "russia/this_is_my_homeland.ogg"
+	volume = 0.5
+}
+music = {
+	name = "333"
+	file = "russia/333.ogg"
+	volume = 0.5
+}
+music = {
+	name = "the_outskirts_Russian_lands"
+	file = "russia/the_outskirts_Russian_lands.ogg"
+	volume = 0.5
+}
+music = {
+	name = "vdv"
+	file = "russia/vdv.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Artyom_Gorodnichy_To_all_who_serve_and_have_served"
+	file = "russia/Artyom_Gorodnichy_To_all_who_serve_and_have_served.ogg"
+	volume = 0.5
+}
+music = {
+	name = "GSN_Angarsk_Special_Forces"
+	file = "russia/GSN_Angarsk_Special_Forces.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Im_Russian_special_forces"
+	file = "russia/Im_Russian_special_forces.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Pavel_Plamenev_Cannon_fodder"
+	file = "russia/Pavel_Plamenev_Cannon_fodder.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Pavel_Plamenev_I_wont_go_back_this_time"
+	file = "russia/Pavel_Plamenev_I_wont_go_back_this_time.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Pavel_Plamenev_Russian_is_not_defeated"
+	file = "russia/Pavel_Plamenev_Russian_is_not_defeated.ogg"
+	volume = 0.5
+}
+music = {
+	name = "for_you_Motherland"
+	file = "russia/for_you_Motherland.ogg"
+	volume = 0.5
+}
+music = {
+	name = "god_with_us"
+	file = "russia/god_with_us.ogg"
+	volume = 0.5
+}
+music = {
+	name = "dance_russia_and_cry_europe"
+	file = "russia/dance_russia_and_cry_europe.ogg"
+	volume = 0.5
+}
+music = {
+	name = "dirty_job"
+	file = "russia/dirty_job.ogg"
+	volume = 0.5
+}
+music = {
+	name = "farewell_of_slavianka"
+	file = "russia/farewell_of_slavianka.ogg"
+	volume = 0.5
+}
+music = {
+	name = "young_russia"
+	file = "russia/young_russia.ogg"
+	volume = 0.5
+}
+music = {
+	name = "to_serve_russia"
+	file = "russia/to_serve_russia.ogg"
+	volume = 0.5
+}
+music = {
+	name = "gostomel_landing"
+	file = "russia/gostomel_landing.ogg"
+	volume = 0.5
+}
+music = {
+	name = "shaman_anthem_of_russia"
+	file = "russia/shaman_anthem_of_russia.ogg"
+	volume = 0.5
+}
+music = {
+	name = "shaman_alive"
+	file = "russia/shaman_alive.ogg"
+	volume = 0.5
+}
+music = {
+	name = "i_am_russian"
+	file = "russia/i_am_russian.ogg"
+	volume = 0.5
+}
+music = {
+	name = "let_get_up"
+	file = "russia/let_get_up.ogg"
+	volume = 0.5
+}
+music = {
+	name = "hold_on_brother"
+	file = "russia/hold_on_brother.ogg"
+	volume = 0.5
+}
+music = {
+	name = "arise_ye_russian_people"
+	file = "russia/arise_ye_russian_people.ogg"
+	volume = 0.5
+}
+music = {
+	name = "a_light_flashes_in_the_dark"
+	file = "russia/a_light_flashes_in_the_dark.ogg"
+	volume = 0.5
+}
+music = {
+	name = "lube_kombat"
+	file = "russia/lube_kombat.ogg"
+	volume = 0.5
+}
+music = {
+	name = "lube_davai_za"
+	file = "russia/lube_davai_za.ogg"
+	volume = 0.5
+}
+music = {
+	name = "lube_soldat"
+	file = "russia/lube_soldat.ogg"
+	volume = 0.5
+}
+music = {
+	name = "just_dont_tell_mom_Im_in_ukraine"
+	file = "russia/just_dont_tell_mom_Im_in_ukraine.ogg"
+	volume = 0.5
+}
+music = {
+	name = "just_dont_tell_mom_Im_in_chechnya"
+	file = "russia/just_dont_tell_mom_Im_in_chechnya.ogg"
+	volume = 0.5
+}
+music = {
+	name = "DDT_rodina"
+	file = "russia/DDT_rodina.ogg"
+	volume = 0.5
+}
+music = {
+	name = "CHernyjj_Lukich_Konchilis_patrony"
+	file = "russia/CHernyjj_Lukich_Konchilis_patrony.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Peremotka_Vechnyjj_put"
+	file = "russia/Peremotka_Vechnyjj_put.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Piknik_Nichego_nichego_ne_bojjsya"
+	file = "russia/Piknik_Nichego_nichego_ne_bojjsya.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Roman_Bobrov_Katyusha_otvet_bojica"
+	file = "russia/Roman_Bobrov_Katyusha_otvet_bojica.ogg"
+	volume = 0.5
+}
+music = {
+	name = "bulat_okudzhava_beri_shinel_poshli_domoji"
+	file = "russia/bulat_okudzhava_beri_shinel_poshli_domoji.ogg"
+	volume = 0.5
+}
+music = {
+	name = "DJ_Astafur_Crimea_is_ours"
+	file = "russia/DJ_Astafur_Crimea_is_ours.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Lastfragment_ZOV"
+	file = "russia/Lastfragment_ZOV.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Yeah_Im_Russian_slowed_phonk"
+	file = "russia/Yeah_Im_Russian_slowed_phon.ogg"
+	volume = 0.5
+}
+music = {
+	name = "VDV_Hello_from_the_Sky(Rock)"
+	file = "russia/vdv.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Adecvat_Production_For_the_colour_of_blue_eyes"
+	file = "russia/Adecvat_Production_For_the_colour_of_blue_eyes.ogg"
+	volume = 0.5
+}
+music = {
+	name = "CG_Bros_BSC"
+	file = "russia/CG_Bros_BSC.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Natalie_takogo_kak"
+	file = "russia/Natalie_takogo_kak.ogg"
+	volume = 0.5
+}
+music = {
+	name = "On_the_Road_USSR_march"
+	file = "russia/On_the_Road_USSR_march.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Tatiana_Kurtukova_Mother_Earth"
+	file = "russia/Tatiana_Kurtukova_Mother_Earth.ogg"
+	volume = 0.5
+}
+music = {
+	name = "When_we_were_at_War"
+	file = "russia/When_we_were_at_War.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Crossbow_song_still_same"
+	file = "russia/Crossbow_song_still_same.ogg"
+	volume = 0.5
+}
+music = {
+	name = "GSN_And_roll_my_sleeves_up_higher"
+	file = "russia/GSN_And_roll_my_sleeves_up_higher.ogg"
+	volume = 0.5
+}
+music = {
+	name = "LUBE_horse"
+	file = "russia/LUBE_horse.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Makeevka_spring"
+	file = "russia/Makeevka_spring.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Plamenev_rising_from_his_knees"
+	file = "russia/Plamenev_rising_from_his_knees.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Plamenev_step_into_dark"
+	file = "russia/Plamenev_step_into_dark.ogg"
+	volume = 0.5
+}
+music = {
+	name = "FPV_to_Volchansk"
+	file = "russia/FPV_to_Volchansk.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Ripped_off_Russian_Song_About_Ukrainian_Counteroffensive"
+	file = "russia/Ripped_off_Russian_Song_About_Ukrainian_Counteroffensive.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Vrata_Poleteli"
+	file = "russia/Vrata_Poleteli.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Vrata_333"
+	file = "russia/Vrata_333.ogg"
+	volume = 0.5
+}
+music = {
+	name = "My_ded_from_Storm_Z"
+	file = "russia/My_ded_from_Storm_Z.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Rusich"
+	file = "russia/Rusich.ogg"
+	volume = 0.5
+}
+music = {
+	name = "geranium_is_in_bloom"
+	file = "russia/geranium_is_in_bloom.ogg"
+	volume = 0.5
+}
+music = {
+	name = "nobrother"
+	file = "russia/nobrother.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Vrata_overtona_i_dont_see_sky"
+	file = "russia/Vrata_overtona_i_dont_see_sky.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Victory_is_ours"
+	file = "russia/Victory_is_ours.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Maydanov_russian_world"
+	file = "russia/Maydanov_russian_world.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Yatskiewicz_Choir_Sigma_Boy"
+	file = "russia/Yatskiewicz_Choir_Sigma_Boy.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Glory_to_Russia_Russian_Nationalist_War_Song"
+	file = "russia/Glory_to_Russia_Russian_Nationalist_War_Song.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Donbass_NATO_Steel_Graveyard"
+	file = "russia/Donbass_NATO_Steel_Graveyard.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Igor_Dadashev_Brother_dont_wait_for_the_summons"
+	file = "russia/Igor_Dadashev_Brother_dont_wait_for_the_summons.ogg"
+	volume = 0.5
+}
+music = {
+	name = "The_Kiev_junta_will_be_defeated"
+	file = "russia/The_Kiev_junta_will_be_defeated.ogg"
+	volume = 0.5
+}
+music = {
+	name = "The_rooks_have_arrived"
+	file = "russia/The_rooks_have_arrived.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Wagner_Bakhmut"
+	file = "russia/Wagner_Bakhmut.ogg"
+	volume = 0.5
+}
+music = {
+	name = "We_are_Russia_Putin_is_strong"
+	file = "russia/We_are_Russia_Putin_is_strong.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Russia_land"
+	file = "russia/Russia_land.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Our_deal"
+	file = "russia/Our_deal.ogg"
+	volume = 0.5
+}
+#Donbass
+music = {
+	name = "arise_donbass"
+	file = "donbass/arise_donbass.ogg"
+	volume = 0.5
+}
+music = {
+	name = "anthem_LPR"
+	file = "donbass/anthem_LPR.ogg"
+	volume = 0.5
+}
+music = {
+	name = "anthem_DPR"
+	file = "donbass/anthem_DPR.ogg"
+	volume = 0.5
+}
+music = {
+	name = "banner_of_the_republic"
+	file = "donbass/banner_of_the_republic.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Song_of_Donbass_warriors"
+	file = "donbass/Song_of_Donbass_warriors.ogg"
+	volume = 0.5
+}
+music = {
+	name = "donbas_is_behind_us"
+	file = "donbass/donbas_is_behind_us.ogg"
+	volume = 0.5
+}
+music = {
+	name = "donbass_is_each_of_us"
+	file = "donbass/donbass_is_each_of_us.ogg"
+	volume = 0.5
+}
+music = {
+	name = "take_us_home_Motherland"
+	file = "donbass/take_us_home_Motherland.ogg"
+	volume = 0.5
+}
+music = {
+	name = "we_are_returning_home"
+	file = "donbass/we_are_returning_home.ogg"
+	volume = 0.5
+}
+music = {
+	name = "USSR_DPR_LPR"
+	file = "donbass/USSR_DPR_LPR.ogg"
+	volume = 0.5
+}
+music = {
+	name = "StaFFord63_Donbass"
+	file = "donbass/StaFFord63_Donbass.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Aeroport"
+	file = "donbass/Aeroport.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Heroes_Z"
+	file = "donbass/Heroes_Z.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Gleb_Kornilov_Donetsk_Airport"
+	file = "donbass/Gleb_Kornilov_Donetsk_Airport.ogg"
+	volume = 0.5
+}
+#War music
+music = {
+	name = "5nizza_soldier"
+	file = "war_songs/5nizza_soldier.ogg"
+	volume = 0.30
+}
+music = {
+	name = "kak_na_vojine"
+	file = "war_songs/agata_kristi_kak_na_vojine.ogg"
+	volume = 0.30
+}
+music = {
+	name = "zdravstvyi_mama"
+	file = "war_songs/moi_dvor_zdravstvyi_mama.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Ace_of_Base_Happy_nation"
+	file = "war_songs/Ace_of_Base_Happy_nation.ogg"
+	volume = 0.40
+}
+music = {
+	name = "Mikhail_Krug_Vladimirsky_central"
+	file = "war_songs/Mikhail_Krug_Vladimirsky_central.ogg"
+	volume = 0.40
+}
+music = {
+	name = "Viktor_Tsoi_Star_called_sun"
+	file = "war_songs/Viktor_Tsoi_Star_called_sun.ogg"
+	volume = 0.40
+}
+music = {
+	name = "pora_domoi"
+	file = "war_songs/sektor_gaza_pora_domoi.ogg"
+	volume = 0.30
+}
+music = {
+	name = "LosDelRio_Macarena_slowed"
+	file = "war_songs/LosDelRio_Macarena_slowed.ogg"
+	volume = 0.30
+}
+music = {
+	name = "blood_type"
+	file = "war_songs/blood_type.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Reflex_Non_Stop_slowed"
+	file = "war_songs/Reflex_Non_Stop_slowed.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Asenssia_BlvckCvrnvge_Night_slowed"
+	file = "war_songs/Asenssia_BlvckCvrnvge_Night_slowed.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Lyapis_Trubetskoy_Iron"
+	file = "war_songs/Lyapis_Trubetskoy_Iron.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Northern_Fleet_Every_night"
+	file = "war_songs/Northern_Fleet_Every_night.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Pornfilms_I_miss_you_so_much"
+	file = "war_songs/Pornfilms_I_miss_you_so_much.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Pornfilms_in_the_range"
+	file = "war_songs/Pornfilms_in_the_range.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Pornfilms_itll_pass"
+	file = "war_songs/Pornfilms_itll_pass.ogg"
+	volume = 0.30
+}
+music = {
+	name = "We_will_not_leave_our_cities_slowed"
+	file = "war_songs/We_will_not_leave_our_cities_slowed.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Bishkek_Roof"
+	file = "war_songs/Bishkek_Roof.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Dark_is_the_Night"
+	file = "war_songs/Dark_is_the_Night.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Death_certificate_The_Noose"
+	file = "war_songs/Death_certificate_The_Noose.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Plenka_Nostalgia_slowed"
+	file = "war_songs/Plenka_Nostalgia_slowed.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Timur_Mutsuraev_The_candles_have_gone_out"
+	file = "war_songs/Timur_Mutsuraev_The_candles_have_gone_out.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Timur_Mutsuraev_Theyre_gone"
+	file = "war_songs/Timur_Mutsuraev_Theyre_gone.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Timur_Mutsurayev_Mum_come"
+	file = "war_songs/Timur_Mutsurayev_Mum_come.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Surf_Curse_Freaks"
+	file = "war_songs/Surf_Curse_Freaks.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Tanin_Jazz_VirtLove"
+	file = "war_songs/Tanin_Jazz_VirtLove.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Viktor_Tsoi_Summer"
+	file = "war_songs/Viktor_Tsoi_Summer.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Pornofilms_Dyadya_Volodya"
+	file = "war_songs/Pornofilms_Dyadya_Volodya.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_Afghan_syndrome"
+	file = "war_songs/Egor_Letov_Afghan_syndrome.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_Dembelskaya"
+	file = "war_songs/Egor_Letov_Dembelskaya.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_Vintovka_is_cool"
+	file = "war_songs/Vintovka_is_cool.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Egor_Letov_Detachment_didnt_notice_loss_of_soldier"
+	file = "war_songs/Egor_Letov_Detachment_didnt_notice_loss_of_soldier.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_Everything_goes_to_plan"
+	file = "war_songs/Egor_Letov_Everything_goes_to_plan.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_Many_lives_have_been_lost"
+	file = "war_songs/Egor_Letov_Many_lives_have_been_lost.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_My_defence"
+	file = "war_songs/Egor_Letov_My_defence.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_resuscitation"
+	file = "war_songs/Egor_Letov_resuscitation.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_Soldiers_are_not_born"
+	file = "war_songs/Egor_Letov_Soldiers_are_not_born.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_New_patriotic"
+	file = "war_songs/Egor_Letov_New_patriotic.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_New_37"
+	file = "war_songs/Egor_Letov_New_37.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_Filthy_youth"
+	file = "war_songs/Egor_Letov_Filthy_youth.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_Necrophilia"
+	file = "war_songs/Egor_Letov_Necrophilia.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_KGB_rock"
+	file = "war_songs/Egor_Letov_KGB_rock.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_Zoo"
+	file = "war_songs/Egor_Letov_Zoo.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_Black_Monday"
+	file = "war_songs/Egor_Letov_Black_Monday.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_State"
+	file = "war_songs/Egor_Letov_State.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_Dark_again"
+	file = "war_songs/Egor_Letov_Dark_again.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_and_opezdec_Evangelie"
+	file = "war_songs/Egor_and_opezdec_Evangelie.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_and_opezdec_Freedom"
+	file = "war_songs/Egor_and_opezdec_Freedom.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_and_opezdec_Eternal_Spring"
+	file = "war_songs/Egor_and_opezdec_Eternal_Spring.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Survival_Instructions_knife_back"
+	file = "war_songs/Survival_Instructions_knife_back.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Survival_Instructions_afgan_syndrime"
+	file = "war_songs/Survival_Instructions_afgan_syndrime.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Survival_Instructions_Northern_country"
+	file = "war_songs/Survival_Instructions_Northern_country.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Survival_Instructions_no_one_stay"
+	file = "war_songs/Survival_Instructions_no_one_stay.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Survival_Instructions_Memory_to_Krychenie"
+	file = "war_songs/Survival_Instructions_Memory_to_Krychenie.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Anarchy_communism"
+	file = "war_songs/Anarchy_communism.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Communism_fantom"
+	file = "war_songs/Communism_fantom.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Communism_vietnam"
+	file = "war_songs/Communism_vietnam.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Communism_Your_majesty"
+	file = "war_songs/Communism_Your_majesty.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Communism_Corn"
+	file = "war_songs/Communism_Corn.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Communism_Song_about_comrade_Stalin"
+	file = "war_songs/Communism_Song_about_comrade_Stalin.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_Long_and_happy_life"
+	file = "war_songs/Egor_Letov_Long_and_happy_life.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_War_has_no_womans_face"
+	file = "war_songs/Egor_Letov_War_has_no_womans_face.ogg"
+	volume = 0.30
+}
+music = {
+	name = "7B_colonel"
+	file = "war_songs/7B_colonel.ogg"
+	volume = 0.30
+}
+music = {
+	name = "B2_No_one_writes_to_colonel"
+	file = "war_songs/B2_No_one_writes_to_colonel.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Chizh_Phantom"
+	file = "war_songs/Chizh_Phantom.ogg"
+	volume = 0.30
+}
+music = {
+	name = "CUPREOUS_DJ_WESSTAG_Black"
+	file = "war_songs/CUPREOUS_DJ_WESSTAG_Black.ogg"
+	volume = 0.30
+}
+music = {
+	name = "CUPREOUS_DJ_WESSTAG_Nicotine"
+	file = "war_songs/CUPREOUS_DJ_WESSTAG_Nicotine.ogg"
+	volume = 0.30
+}
+music = {
+	name = "fallen777angel_gladiator_knight"
+	file = "war_songs/fallen777angel_gladiator_knight.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Lolita_Orientation_North_hardstyle"
+	file = "war_songs/Lolita_Orientation_North_hardstyle.ogg"
+	volume = 0.30
+}
+music = {
+	name = "nenavigubluatechno_HELL"
+	file = "war_songs/nenavigubluatechno_HELL.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Viktor_Tsoi_War"
+	file = "war_songs/Viktor_Tsoi_War.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Against_the_Tsar"
+	file = "war_songs/Against_the_Tsar.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Chained_together"
+	file = "war_songs/Chained_together.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_Kill"
+	file = "war_songs/Egor_Letov_Kill.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_Lucky"
+	file = "war_songs/Egor_Letov_Lucky.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_The_sun_will_rise"
+	file = "war_songs/Egor_Letov_The_sun_will_rise.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_We_ice"
+	file = "war_songs/Egor_Letov_We_ice.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_White_soldier"
+	file = "war_songs/Egor_Letov_White_soldier.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Egor_Letov_homeland"
+	file = "war_songs/Egor_Letov_homeland.ogg"
+	volume = 0.30
+}
+music = {
+	name = "CHernyjj_Lukich_Letov_Alone_Window"
+	file = "war_songs/CHernyjj_Lukich_Letov_Alone_Window.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Someday_world_will_go_nahyi"
+	file = "war_songs/Someday_world_will_go_nahyi.ogg"
+	volume = 0.30
+}
+music = {
+	name = "if_theres_love_in_your_heart"
+	file = "war_songs/if_theres_love_in_your_heart.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Oh_Fields_My_Fields"
+	file = "war_songs/Oh_Fields_My_Fields.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Pavel_Plamenev_Pavel_Ivanov_Flock_at_the_TV"
+	file = "war_songs/Pavel_Plamenev_Pavel_Ivanov_Flock_at_the_TV.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Pavel_Plamenev_respect_our_government"
+	file = "war_songs/Pavel_Plamenev_respect_our_government.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Pavel_Plamenev_night_before_fight"
+	file = "war_songs/Pavel_Plamenev_night_before_fight.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Tsoi_want_to_change"
+	file = "war_songs/Tsoi_want_to_change.ogg"
+	volume = 0.30
+}
+music = {
+	name = "Warszawianka"
+	file = "war_songs/Warszawianka.ogg"
+	volume = 0.30
+}
+#Phonk
+music = {
+	name = "Skets_Man_down"
+	file = "phonk/Skets_Man_down.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Forgottenage_End_of_the_world"
+	file = "phonk/Forgottenage_End_of_the_world.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Freddie_Dredd_WTH"
+	file = "phonk/Freddie_Dredd_WTH.ogg"
+	volume = 0.5
+}
+music = {
+	name = "KSLV_Dynamic"
+	file = "phonk/KSLV_Dynamic.ogg"
+	volume = 0.5
+}
+music = {
+	name = "KSLV_Nitrous"
+	file = "phonk/KSLV_Nitrous.ogg"
+	volume = 0.5
+}
+music = {
+	name = "KSLV_Override"
+	file = "phonk/KSLV_Override.ogg"
+	volume = 0.5
+}
+music = {
+	name = "KSLV_Pimp_Slap"
+	file = "phonk/KSLV_Pimp_Slap.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Kute_Avoid_me"
+	file = "phonk/Kute_Avoid_me.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Onimxru_Smithmane_Shadow"
+	file = "phonk/Onimxru_Smithmane_Shadow.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Zodivk_Devil_eyes"
+	file = "phonk/Zodivk_Devil_eyes.ogg"
+	volume = 0.5
+}
+music = {
+	name = "509_Cicario_Deadly_heist"
+	file = "phonk/509_Cicario_Deadly_heist.ogg"
+	volume = 0.5
+}
+music = {
+	name = "D4C_Order_of_a_Hetman"
+	file = "phonk/D4C_Order_of_a_Hetman.ogg"
+	volume = 0.5
+}
+music = {
+	name = "MoonDeity_GO"
+	file = "phonk/MoonDeity_GO.ogg"
+	volume = 0.5
+}
+music = {
+	name = "MoonDeity_Mental_disorder"
+	file = "phonk/MoonDeity_Mental_disorder.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Phonkha_Skets_Raven"
+	file = "phonk/Phonkha_Skets_Raven.ogg"
+	volume = 0.5
+}
+music = {
+	name = "SCXRsoul_Sx1nxwy_Demons_in_my_soul"
+	file = "phonk/SCXRsoul_Sx1nxwy_Demons_in_my_soul.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Skets_509_Cicario_Fog_of_war"
+	file = "phonk/Skets_509_Cicario_Fog_of_war.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Skets_No_mercy"
+	file = "phonk/Skets_No_mercy.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Visxge_Immaculate"
+	file = "phonk/Visxge_Immaculate.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Bxnostown_Sadnation_Eclipse"
+	file = "phonk/Bxnostown_Sadnation_Eclipse.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Freddie_Dredd_Devils_work"
+	file = "phonk/Freddie_Dredd_Devils_work.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Freddie_Dredd_Limbo"
+	file = "phonk/Freddie_Dredd_Limbo.ogg"
+	volume = 0.5
+}
+music = {
+	name = "gqtis_Poor"
+	file = "phonk/gqtis_Poor.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Lil_God_Dan_Marceline"
+	file = "phonk/Lil_God_Dan_Marceline.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Nitro_Phonka_Playmane"
+	file = "phonk/Nitro_Phonka_Playmane.ogg"
+	volume = 0.5
+}
+music = {
+	name = "SCXRsoul_Himars"
+	file = "phonk/SCXRsoul_Himars.ogg"
+	volume = 0.5
+}
+music = {
+	name = "ScytherMane_Blood_rite"
+	file = "phonk/ScytherMane_Blood_rite.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Shadxwbxrn_Damge"
+	file = "phonk/Shadxwbxrn_Damge.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Shadxwbxrn_Warrior"
+	file = "phonk/Shadxwbxrn_Warrior.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Staysold_Totalitarism"
+	file = "phonk/Staysold_Totalitarism.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Sx1nxwy_Show_me_the_will"
+	file = "phonk/Sx1nxwy_Show_me_the_will.ogg"
+	volume = 0.5
+}
+music = {
+	name = "509_Cicario_C_rtel_phonk"
+	file = "phonk/509_Cicario_C_rtel_phonk.ogg"
+	volume = 0.5
+}
+music = {
+	name = "CB_LIEBE"
+	file = "phonk/CB_LIEBE.ogg"
+	volume = 0.5
+}
+music = {
+	name = "CURSEDEVIL_D4C_HELLBORN"
+	file = "phonk/CURSEDEVIL_D4C_HELLBORN.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Cxremxre_paashee_From_Ukraine"
+	file = "phonk/Cxremxre_paashee_From_Ukraine.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Donttrustthem_Who_you_are"
+	file = "phonk/Donttrustthem_Who_you_are.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Kordhell_Memphis_doom"
+	file = "phonk/Kordhell_Memphis_doom.ogg"
+	volume = 0.5
+}
+music = {
+	name = "KSLV_Scrapyard"
+	file = "phonk/KSLV_Scrapyard.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Kxnvra_Burnout"
+	file = "phonk/Kxnvra_Burnout.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Memphis_Cult_No_remorse"
+	file = "phonk/Memphis_Cult_No_remorse.ogg"
+	volume = 0.5
+}
+music = {
+	name = "MoonDeity_Chills_Imposter_syndrome"
+	file = "phonk/MoonDeity_Chills_Imposter_syndrome.ogg"
+	volume = 0.5
+}
+music = {
+	name = "MoonDeity_NON_STOP"
+	file = "phonk/MoonDeity_NON_STOP.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Pluxry_SkUrt_Grave"
+	file = "phonk/Pluxry_SkUrt_Grave.ogg"
+	volume = 0.5
+}
+music = {
+	name = "RXDXVIL_Steelman"
+	file = "phonk/RXDXVIL_Steelman.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Shadxwbxrn_Shotgun"
+	file = "phonk/Shadxwbxrn_Shotgun.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Shadxwbxrn_Warlock"
+	file = "phonk/Shadxwbxrn_Warlock.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Stxstn_FPV"
+	file = "phonk/Stxstn_FPV.ogg"
+	volume = 0.5
+}
+music = {
+	name = "White_prince_AH_AH_AH"
+	file = "phonk/White_prince_AH_AH_AH.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Ariis_Blazing"
+	file = "phonk/Ariis_Blazing.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Crystal_Castles_Kerosene"
+	file = "phonk/Crystal_Castles_Kerosene.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Freddie_Dredd_Regardless"
+	file = "phonk/Freddie_Dredd_Regardless.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Ghost_FOG"
+	file = "phonk/Ghost_FOG.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Memphis_cult_F_ck_the_Law"
+	file = "phonk/Memphis_cult_F_ck_the_Law.ogg"
+	volume = 0.5
+}
+music = {
+	name = "oppslll_Night_Memphis"
+	file = "phonk/oppslll_Night_Memphis.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Pharamist_Overdose"
+	file = "phonk/Pharamist_Overdose.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Slowboy_lucaf_U_Bitcrushed_My_Heart"
+	file = "phonk/Slowboy_lucaf_U_Bitcrushed_My_Heart.ogg"
+	volume = 0.5
+}
+music = {
+	name = "slxughter_throx"
+	file = "phonk/slxughter_throx.ogg"
+	volume = 0.5
+}
+music = {
+	name = "TwoKE_PSL"
+	file = "phonk/TwoKE_PSL.ogg"
+	volume = 0.5
+}
+music = {
+	name = "KSLV_Deadline"
+	file = "phonk/KSLV_Deadline.ogg"
+	volume = 0.5
+}
+music = {
+	name = "swerve_h4rdjump_1988_SuperSlowed"
+	file = "phonk/swerve_h4rdjump_1988_SuperSlowed.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Pathetic_SOCIETY"
+	file = "phonk/Pathetic_SOCIETY.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Vieze_Asbak_Meet_Her_At_The_Love_Parade_Beuk_Mix"
+	file = "phonk/Vieze_Asbak_Meet_Her_At_The_Love_Parade_Beuk_Mix.ogg"
+	volume = 0.5
+}
+music = {
+	name = "fragment_slxughter"
+	file = "phonk/fragment_slxughter.ogg"
+	volume = 0.5
+}
+music = {
+	name = "kslv_Madness"
+	file = "phonk/kslv_Madness.ogg"
+	volume = 0.5
+}
+music = {
+	name = "pxrkx_BASSLINE_SLOWED"
+	file = "phonk/pxrkx_BASSLINE_SLOWED.ogg"
+	volume = 0.5
+}
+music = {
+	name = "pxrkx_glock_tight_slowed"
+	file = "phonk/pxrkx_glock_tight_slowed.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Death_Is_No_More_BLESSED_MANE"
+	file = "phonk/Death_Is_No_More_BLESSED_MANE.ogg"
+	volume = 0.5
+}
+music = {
+	name = "IVOXYGEN_ASTRO_ft.Slowboy_x_Zaichkou888"
+	file = "phonk/IVOXYGEN_ASTRO_ft.Slowboy_x_Zaichkou888.ogg"
+	volume = 0.5
+}
+music = {
+	name = "IVOXYGEN_INTERNET_LOVE"
+	file = "phonk/IVOXYGEN_INTERNET_LOVE.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Freddie_Dredd_Wrath"
+	file = "phonk/Freddie_Dredd_Wrath.ogg"
+	volume = 0.5
+}
+#Nato
+music = {
+	name = "American_Patriotic_song_Over_There"
+	file = "nato/American_Patriotic_song_Over_There.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Black_Sabbath_Paranoid"
+	file = "nato/Black_Sabbath_Paranoid.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Creedence_Clerwater_Revival_Fortunate_Son"
+	file = "nato/Creedence_Clerwater_Revival_Fortunate_Son.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Finnish_folk_song_Sakkijarven_polkka"
+	file = "nato/Finnish_folk_song_Sakkijarven_polkka.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Greek_military_march_Greece_never_dies"
+	file = "nato/Greek_military_march_Greece_never_dies.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Mamas_Papas_California_dreamin"
+	file = "nato/Mamas_Papas_California_dreamin.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Polish_military_march_Ciezkie_czasy_legionera"
+	file = "nato/Polish_military_march_Ciezkie_czasy_legionera.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Romanian_military_march_Drum_Bun"
+	file = "nato/Romanian_military_march_Drum_Bun.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Team_America_America_F_ck_Yeah"
+	file = "nato/Team_America_America_F_ck_Yeah.ogg"
+	volume = 0.5
+}
+music = {
+	name = "The_Rolling_Stones_Paint_it_Black"
+	file = "nato/The_Rolling_Stones_Paint_it_Black.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Turkish_military_march_Ceddin_deden"
+	file = "nato/Turkish_military_march_Ceddin_deden.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Anica_Kninska_Kraljica"
+	file = "nato/Anica_Kninska_Kraljica.ogg"
+	volume = 0.5
+}
+music = {
+	name = "British_march_The_British_grenadiers"
+	file = "nato/British_march_The_British_grenadiers.ogg"
+	volume = 0.5
+}
+music = {
+	name = "British_patriotic_song_Rule_Britannia"
+	file = "nato/British_patriotic_song_Rule_Britannia.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Estonian_patriotic_song_Metsavendade_laul"
+	file = "nato/Estonian_patriotic_song_Metsavendade_laul.ogg"
+	volume = 0.5
+}
+music = {
+	name = "French_march_Song_of_the_Onion"
+	file = "nato/French_march_Song_of_the_Onion.ogg"
+	volume = 0.5
+}
+music = {
+	name = "German_march_Preubens_Gloria"
+	file = "nato/German_march_Preubens_Gloria.ogg"
+	volume = 0.5
+}
+music = {
+	name = "German_march_Wenn_Die_Soldaten"
+	file = "nato/German_march_Wenn_Die_Soldaten.ogg"
+	volume = 0.5
+}
+music = {
+	name = "German_soldiers_song_Wo_alle_staben_enden"
+	file = "nato/German_soldiers_song_Wo_alle_staben_enden.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Italian_patriotic_song_Bella_ciao"
+	file = "nato/Italian_patriotic_song_Bella_ciao.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Lithuanian_march_Oi_sermuksnio"
+	file = "nato/Lithuanian_march_Oi_sermuksnio.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Norwegian_march_Pa_Vikingtog"
+	file = "nato/Norwegian_march_Pa_Vikingtog.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Scottish_march_Scotland_the_brave"
+	file = "nato/Scottish_march_Scotland_the_brave.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Wir_sind_des_Geyers_schwarzer_Haufen"
+	file = "nato/Wir_sind_des_Geyers_schwarzer_Haufen.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Madness_Baggy_Trousers_2009Remaster"
+	file = "nato/Madness_Baggy_Trousers_2009Remaster.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Pandora_Trustme"
+	file = "nato/Pandora_Trustme.ogg"
+	volume = 0.5
+}
+music = {
+	name = "RSonne"
+	file = "nato/RSonne.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Tiefbasskommando_rabenvater_districtred_rmx"
+	file = "nato/Tiefbasskommando_rabenvater_districtred_rmx.ogg"
+	volume = 0.5
+}
+music = {
+	name = "BadBoysOfReggae_Bad_Boys"
+	file = "nato/BadBoysOfReggae_Bad_Boys.ogg"
+	volume = 0.5
+}
+music = {
+	name = "dxnnyfxntom_x_playboi_carti_new_tank_guitar"
+	file = "nato/dxnnyfxntom_x_playboi_carti_new_tank_guitar.ogg"
+	volume = 0.5
+}
+music = {
+	name = "GIGI_DAGOSTINO_Lamour_Toujours"
+	file = "nato/GIGI_DAGOSTINO_Lamour_Toujours.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Miss_Construction_Hass_Und_Liebe"
+	file = "nato/Miss_Construction_Hass_Und_Liebe.ogg"
+	volume = 0.5
+}
+music = {
+	name = "MrPolska_POLSKA_JUMPSTYLE"
+	file = "nato/MrPolska_POLSKA_JUMPSTYLE.ogg"
+	volume = 0.5
+}
+music = {
+	name = "PAPKE_VERJUNKT_TECHNO_BOOTLEG"
+	file = "nato/PAPKE_VERJUNKT_TECHNO_BOOTLEG.ogg"
+	volume = 0.5
+}
+music = {
+	name = "playboi_cart_Cash_Shit_Guitar"
+	file = "nato/playboi_cart_Cash_Shit_Guitar.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Stromschienen_Syndikat_Scheiss_Egal_District_Red_Remix"
+	file = "nato/Stromschienen_Syndikat_Scheiss_Egal_District_Red_Remix.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Talking_Drugs_saibotaje"
+	file = "nato/Talking_Drugs_saibotaje.ogg"
+	volume = 0.5
+}
+#Wagner
+music = {
+	name = "summer_and_crossbows"
+	file = "wagner/summer_and_crossbows.ogg"
+	volume = 0.5
+}
+music = {
+	name = "summer_and_crossbows_x_KSLV_override"
+	file = "wagner/summer_and_crossbows_x_KSLV_override.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Leto_i_Arbalety_Rock"
+	file = "wagner/Leto_i_Arbalety_Rock.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Akim_Jumbo"
+	file = "wagner/Akim_Jumbo.ogg"
+	volume = 0.5
+}
+music = {
+	name = "cekisty_my_po_lokot"
+	file = "wagner/cekisty_my_po_lokot.ogg"
+	volume = 0.5
+}
+music = {
+	name = "chvk-vagner-grad-i-liven"
+	file = "wagner/chvk-vagner-grad-i-liven.ogg"
+	volume = 0.5
+}
+music = {
+	name = "SHTIL_orkestr_vagnera"
+	file = "wagner/SHTIL_orkestr_vagnera.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Lastfragment_SKWLKR_Casper_First_Warrior"
+	file = "wagner/Lastfragment_SKWLKR_Casper_First_Warrior.ogg"
+	volume = 0.5
+}
+music = {
+	name = "SKWLKR_best_in_hell"
+	file = "wagner/SKWLKR_best_in_hell.ogg"
+	volume = 0.5
+}
+music = {
+	name = "P.Plamenov_Otruadi_veteranov"
+	file = "wagner/P.Plamenov_Otruadi_veteranov.ogg"
+	volume = 0.5
+}
+music = {
+	name = "V.Tsigankova_Rus_PMC"
+	file = "wagner/V.Tsigankova_Rus_PMC.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Kasper_they_are_not_there"
+	file = "wagner/Kasper_they_are_not_there.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Kasper_patron"
+	file = "wagner/Kasper_patron.ogg"
+	volume = 0.5
+}
+music = {
+	name = "kasper_zavtra_povezet"
+	file = "wagner/kasper_zavtra_povezet.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Sclauen_Palmyra"
+	file = "wagner/Sclauen_Palmyra.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Sclauen_Jumbo"
+	file = "wagner/Sclauen_Jumbo.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Vrata_overtona"
+	file = "wagner/Vrata_overtona.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Vrata_overtona_a_lot_salt_in_soledar"
+	file = "wagner/Vrata_overtona_a_lot_salt_in_soledar.ogg"
+	volume = 0.5
+}
+#War speech
+music = {
+	name = "Putin_war_speech_24_02_2022"
+	file = "voice_of_war/Putin_war_speech_24_02_2022.ogg"
+	volume = 1.9
+}
+music = {
+	name = "Zelensky_war_speech_to_russians_24_02_2022"
+	file = "voice_of_war/Zelensky_war_speech_to_russians_24_02_2022.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Zelensky_war_speech_24_02_2022"
+	file = "voice_of_war/Zelensky_war_speech_24_02_2022.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Zelensky_brifing_war_speech_24_02_2022"
+	file = "voice_of_war/Zelensky_brifing_war_speech_24_02_2022.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Zelensky_finel_for_Russia_07_04_2022"
+	file = "voice_of_war/Zelensky_finel_for_Russia_07_04_2022.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Russia_first_chanell_news_13_00_24_02_2022"
+	file = "voice_of_war/Russia_first_chanell_news_13_00_24_02_2022.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Russia_first_chanell_news_17_30_24_02_2022"
+	file = "voice_of_war/Russia_first_chanell_news_17_30_24_02_2022.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Prigoshin_1055_26_12_2022"
+	file = "voice_of_war/Prigoshin_1055_26_12_2022.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Prigoshin_1833_23_06_2023"
+	file = "voice_of_war/Prigoshin_1833_23_06_2023.ogg"
+	volume = 0.5
+}
+music = {
+	name = "Prigoshin_1834_23_06_2023"
+	file = "voice_of_war/Prigoshin_1834_23_06_2023.ogg"
+	volume = 0.5
+}
